@@ -1,1 +1,1 @@
-# face-detection-news-videos
+# Automatic face detection and analyis in news videos

@@ -2,16 +2,17 @@
 
 This notebook demonstrates how to analyze faces in videos using Deepface.
 
-## Required libraries
+### Required libraries
 - pip install deepface
 - pip install matplotlib==3.1.3
 
 ### Project structure
 
 - `/faces`: Detected faces
+- `/face_counts`: How often a face appeared in a video
 - `/frames`: Extracted video frames (ommited because too large)
 - `/unique_faces`: Filtered faces on uniquness
-- `/videos: Videos`: beeing analyzed
+- `/videos`: Analyzed videos
 
 
 ### Videos used
